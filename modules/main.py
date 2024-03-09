@@ -31,7 +31,8 @@ bot = Client(
 
 @bot.on_message(filters.command(["start"]))
 async def account_login(bot: Client, m: Message):
-    editable = await m.reply_text(ℍɪɪ ┈━═[𝗠𝘆 𝗙𝗿𝗲𝗶𝗻𝗱](tg://user?id=<user_id>)═━┈😎\n\nI Am A Bot For Download Links From Your .TXT File And Then Upload That File On Telegram. So Basically, If You Want To Use Me First Send Me /upload Command And Then Follow Few Steps..\n\nDeveloped By» [Mahi](https://t.me/Fake_one), parse_mode="Markdown")
+    editable = await m.reply_text("**ℍɪɪ** ┈━═My Freind═━┈😎\n\n I Am A Bot For Download Links From Your **.TXT** File And Then Upload That File Om Telegram So Basically If You Want To Use Me First Send Me /upload Command And Then Follow Few Steps..")
+
 @bot.on_message(filters.command("stop"))
 async def restart_handler(_, m):
     await m.reply_text("**Stopped**🚦", True)
@@ -39,7 +40,7 @@ async def restart_handler(_, m):
 
 
 
-@bot.on_message(filters.command(["upload"]))
+@bot.on_message(filters.command(["mahi"]))
 async def account_login(bot: Client, m: Message):
     editable = await m.reply_text('𝕋𝕆 ᴅᴏᴡɴʟᴏᴀᴅ ᴀ ᴛxᴛ ғɪʟᴇ 𝕤ᴇɴᴅ ʜᴇʀᴇ ⚡️')
     input: Message = await bot.listen(editable.chat.id)
