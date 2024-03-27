@@ -18,4 +18,4 @@
 
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrMahiji//txt_to_video_uploader)
+[![Deploy To Heroku MAHI®](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nrgodara/Working_txt_uploader)
