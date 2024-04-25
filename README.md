@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/9c1abcc5a8b3b69722393.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://graph.org/file/f4d4a6e3ed00365fed281.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
   Naruto 
@@ -18,4 +18,4 @@
 
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Raj933955/Working_txt_uploader-mahi-mandex/tree/Editing)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohitbooraget/Working_txt_uploader-mahi-mandex)
